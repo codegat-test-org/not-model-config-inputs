@@ -1,0 +1,13 @@
+format: yamanifest
+version: 1.0
+---
+README.md:
+  fullpath: /home/659/tg0447/yamftest/cfg1/some/config/stuff/README.md
+  hashes:
+    binhash: 28788e17d1210f4ade0d9e99684dc066
+    md5: 243c426a3406a101a542dba998e40004
+one.nc:
+  fullpath: /home/659/tg0447/yamftest/cfg1/some/config/stuff/one.nc
+  hashes:
+    binhash: 1847e83dc6489ae8aa6104fd605ac0a2
+    md5: cb3a3fa2dad64b7e561329bfc745aaae

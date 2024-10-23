@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+wow.nc:
+  fullpath: /home/659/tg0447/yamftest/cfg2/some/config/stuff/wow.nc
+  hashes:
+    binhash: 9e9924ab37d797ba45ceebb274f44735
+    md5: 243c426a3406a101a542dba998e40004

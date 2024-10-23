@@ -1,0 +1,13 @@
+format: yamanifest
+version: 1.0
+---
+other.nc:
+  fullpath: /home/659/tg0447/yamftest/cfg1/some/other/dirs/other.nc
+  hashes:
+    binhash: b57aa552ac5b7a973477f19682ba3e61
+    md5: f500e494a904188dc326e91fdcd0947c
+some.nc:
+  fullpath: /home/659/tg0447/yamftest/cfg1/some/other/dirs/some.nc
+  hashes:
+    binhash: 22b7519b1409743de644453302069eb8
+    md5: cb3a3fa2dad64b7e561329bfc745aaae
